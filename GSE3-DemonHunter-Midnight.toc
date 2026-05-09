@@ -1,0 +1,13 @@
+## Interface: 120005
+## Title: GSE3 - Demon Hunter Midnight
+## Notes: Smart leveling sequences for Demon Hunter Havoc (DPS) and Vengeance (Tank). Fully adaptive talent detection via [known:] gating. Rogue-code enforcement via sequence registry. WoW Midnight 12.0.5.
+## Version: 2.0.0
+## Author: Bussyblastr Bargain Bin
+## DefaultState: Enabled
+## Dependencies: GSE
+## X-Patch: 12.0.5.67451
+## X-Class: DEMONHUNTER
+## X-Specs: 577,581
+
+sequences_manifest.lua
+loaded.lua
